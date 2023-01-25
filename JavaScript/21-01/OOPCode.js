@@ -56,3 +56,6 @@ console.log(myVariable.getlast());
 console.log(myVariable.getlast());
 console.log(myVariable.getlast());
 console.log(myVariable.getlast());
+
+
+// ----------------------------END OF SESSION--------------------------- //
