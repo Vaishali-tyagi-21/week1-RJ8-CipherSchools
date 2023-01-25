@@ -1,0 +1,9 @@
+React Js
+
+-> React is a Frontend Library , used for Frontend application development
+-> react will use extremely good level of javascript to change the content of the page and this is only the concept of Virtual DOM
+-> Whatever logic we r going to write on react is going to be executed on virtual DOM
+and then this virtual DOM will be like a layer to Real DOM with the help of which websites are modified
+-> It doesnt reload the static website it happens dynamically
+
+
