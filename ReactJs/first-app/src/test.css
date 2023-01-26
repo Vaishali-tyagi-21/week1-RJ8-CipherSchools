@@ -1,0 +1,6 @@
+#testId{
+    color: red; 
+}
+
+/* adding color to the text using external css */
+/* external css is the better way to import css in reactjs */
